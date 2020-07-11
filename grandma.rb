@@ -7,7 +7,7 @@ if phrase == "hello grandma"
 elsif phrase == "I love you grandma"
   puts "WHAT? NO, NOT SINCE 1938!"
 else phrase == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+  return "I LOVE YOU TOO PUMPKIN!"
 end 
 
 end
