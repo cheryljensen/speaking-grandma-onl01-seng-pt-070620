@@ -1,8 +1,10 @@
 def speak_to_grandma(phrase)
 
-phrase == "i love you grandma".upcase
+phrase == "I LOVE YOU GRANDMA!".upcase
 
 if phrase == "Hi Nana, how are you?"
+  return "HUH?! SPEAK UP, SONNY!"
+elsif == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   return "WHAT? NO, NOT SINCE 1938!"
