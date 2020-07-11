@@ -4,7 +4,7 @@ phrase == "I LOVE YOU GRANDMA!".upcase
 
 if phrase == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
-elsif == "Hi!"
+elsif phrase == "Hi!"
   return "HUH?! SPEAK UP, SONNY!"
 elsif phrase == "WHAT DID YOU EAT TODAY?"
   return "WHAT? NO, NOT SINCE 1938!"
