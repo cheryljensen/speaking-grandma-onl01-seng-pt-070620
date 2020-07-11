@@ -4,7 +4,7 @@ phrase == "i love you grandma"
 
 if phrase == "hello grandma"
   return "HUH?! SPEAK UP, SONNY!"
-elsif phrase.capitalize
+elsif phrase ==
   puts "WHAT? NO, NOT SINCE 1938!"
 else phrase.upcase
   puts "I LOVE YOU TOO PUMPKIN!"
